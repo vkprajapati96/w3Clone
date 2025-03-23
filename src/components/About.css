@@ -1,0 +1,43 @@
+.about{
+    padding: 6rem 0;
+    /* border: 12px solid; */
+}
+.about-img {
+    width: 95%;
+    
+}
+.about-img img{
+width: 100%;
+object-fit: contain;
+
+}
+
+.about-right h4{
+    font-weight: 500;
+    font-size: 20px ;
+    color: gray;
+
+}
+
+.about-right h2{
+    color: black;
+    font-weight: 600;
+}
+.about-right p{
+    color:gray;
+    /* font-size: ; */
+}
+.about-right h5{
+    color:black;
+    font-weight: 700;
+}
+
+.about-right h5 span{
+    color:blue;
+}
+
+
+.about-right h5:hover{
+    color:blue;
+    cursor: pointer;
+}

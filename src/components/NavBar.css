@@ -1,0 +1,10 @@
+.w3-logo{
+    width: 170px;
+}
+
+
+
+.main-nav #nav:hover{
+border-bottom:2px solid blue;
+transition:all .05s ease; 
+}

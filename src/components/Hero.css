@@ -1,0 +1,14 @@
+.hero{
+background-image: url("../../public/bg.webp");
+background-size: contain;
+background-repeat:no-repeat;
+}
+
+
+.hero-footer img:nth-child(2) {
+    width: 4rem;
+}
+
+.hero-footer img {
+     width:7rem;
+}

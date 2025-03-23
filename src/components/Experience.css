@@ -1,0 +1,31 @@
+.count{
+    line-height: 60px;
+    color: #cea729;
+    font-size: 60px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+}
+
+.experience-con{
+    background-color: #F5F4F4;
+}
+.experience-main{
+    padding: 5rem 0;
+}
+.experience{
+    align-items: center;
+}
+.experience-description h4{
+color: gray;
+font-size: 20px;
+}
+
+.experience-description h2{
+    color: black;
+    font-weight: 600;
+}
+
+.experience-description p{
+    color: gray;
+}
