@@ -1,8 +1,7 @@
 import './App.css'
 // import 'bootstrap/dist/css/bootstrap.min.css';
 
-import { Button} from 'react-bootstrap';
-import NavBar from './components/Navbar';
+import NavBar from './components/NavBar';
 import Hero from './components/Hero';
 import About from './components/About';
 import Experience from './components/Experience';
