@@ -5,10 +5,10 @@ import { FaArrowAltCircleRight } from "react-icons/fa";
 
 function About() {
   return (
-    <section className="container-fluid bg-light about">
+    <section className="container-fluid bg-light about py-5">
       <div className="container about-left">
         <div className="row gx-5">
-          <div className="col">
+          <div className=" col-lg-6 ">
             <div className="about-img">
               <img
                 src="https://www.w3villa.com/production/assets/landing_page/who_we_are_image-2.0-2f0adc5481a3332c4fb5247b79b5ac355bd2642f088587aafbc6085665d9f60d.webp"
@@ -16,7 +16,7 @@ function About() {
               />
             </div>
           </div>
-          <div className="col about-right">    
+          <div className=" col-lg-6 about-right ">    
               <h4>About Us</h4>
               <h2>Who are we</h2>
               <p>

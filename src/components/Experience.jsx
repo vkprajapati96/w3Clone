@@ -7,7 +7,7 @@ function Experience() {
     <div className="experience-main container">
         <div className="experience row gx-5">
         
-          <div className="experience-description   col ">
+          <div className="experience-description  col-lg-6   ">
             <div>
               <h4>Our Experience</h4>
               <h2>Experts <br/>
@@ -17,19 +17,19 @@ function Experience() {
               </p>
             </div>
           </div>
-          <div className="col ">
+          <div className="col-lg-6 ">
             <div className="row gx-3">
-                <div className="col">
+                <div className="col-6">
                     <div className='explore_nos text-center'>
-                    <div className='count'>
+                    <div className='count fs-sm-1'>
                     75+
                     </div>
                     <span>Happy Clients</span>
                     </div>
                 </div>
-                <div className="col">
+                <div className="col-6">
                     <div className='explore_nos text-center'>
-                    <div className='count'>
+                    <div className='count fs-sm-1'>
                     100+
                     </div>
                     <span>Team Members</span>
@@ -37,17 +37,17 @@ function Experience() {
                 </div>
             </div>
             <div className="row  gx-3 py-5">
-            <div className="col">
+            <div className="col-6">
                     <div className='explore_nos text-center'>
-                    <div className='count'>
+                    <div className='count fs-sm-1'>
                     10+
                     </div>
                     <span>Years of Experience</span>
                     </div>
                 </div>
-                <div className="col">
+                <div className="col-6">
                     <div className='explore_nos text-center'>
-                    <div className='count'>
+                    <div className='count fs-sm-1'>
                     200+
                     </div>
                     <span>Projects Delivered</span>
