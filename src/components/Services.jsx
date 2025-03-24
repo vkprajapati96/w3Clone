@@ -20,7 +20,7 @@ function Services() {
     
     <div className='d-flex flex-column align-items-center gap-3 mt-3'>
     <div className="row g-4">
-  <div className="col">
+  <div className="col-lg-6 ">
     <Card className="h-100  border-0 py-2  " style={{ minHeight: "300px",backgroundColor:"#ffe6f0df" }}> {/* Reduced height */}
       <Card.Body>
         <Card.Title className='fs-1'><LuGitCompareArrows /></Card.Title>
@@ -32,7 +32,7 @@ function Services() {
     </Card>
   </div>
 
-  <div className="col">
+  <div className="col-lg-6">
     <Card className="h-100  border-0 py-2 " style={{minHeight: "300px",backgroundColor:"#e6fcffdf" }}> {/* Reduced height */}
       <Card.Body>
         <Card.Title className='fs-1'> <BsCurrencyBitcoin/></Card.Title>
@@ -48,7 +48,7 @@ function Services() {
 </div>
 
 <div className="row g-4">
-<div className="col">
+<div className="col-lg-6">
     <Card className="h-100  border-0 py-2 " style={{minHeight: "300px",backgroundColor:"#f0f0f0" }}> {/* Reduced height */}
       <Card.Body>
         <Card.Title className='fs-1'><LuGitCompareArrows /></Card.Title>
@@ -60,7 +60,7 @@ function Services() {
     </Card>
   </div>
 
-  <div className="col">
+  <div className="col-lg-6">
     <Card className="h-100  border-0 py-2 " style={{minHeight: "300px",backgroundColor:"#fbffe6df" }}> {/* Reduced height */}
       <Card.Body>
         <Card.Title className='fs-1'><LuGitCompareArrows /></Card.Title>
