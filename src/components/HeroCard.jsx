@@ -16,9 +16,10 @@ function HeroCard({ heading1,  sub_head1  }) {
           <Button variant="primary fw-semibold">See Our Work</Button>
         </div>
       </div>
-      <div className="hero-card-img  col-sm-12 col-lg-6 d-flex justify-content-lg-end">
-        <img src="/image.jpg" alt="Hero" className="hero_image  w-75"  />
-      </div>
+      <div className="hero-card-img col-sm-12 col-lg-6 d-flex justify-content-lg-end justify-content-center">
+  <img src="/image.jpg" alt="Hero" className="hero_image w-75 w-sm-75" />
+</div>
+
     </div>
 
       

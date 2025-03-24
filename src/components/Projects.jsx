@@ -18,10 +18,12 @@ function Projects() {
         <div className="row mt-5 ">
           <div className=" col-lg-6">
             <div className="text-start">
-              <h2 className='text-dark'>
-              Aftermarket online platform for <br />
-              Vendor and Yard Management
-              </h2>
+            <h2 className="fs-sm-6">
+  Aftermarket online platform for <br className="" />
+  Vendor and Yard Management
+</h2>
+
+
               <p className="pt-3">
                 With years of experience, we have developed multiple solutions
                 and large enterprise applications, proving our prowess in the
@@ -103,29 +105,3 @@ function Projects() {
 }
 
 export default Projects
-{/* <div className="row mt-5">
-<div className="col-lg-6">
-  <div className="text-start">
-    <h2>
-    An ecommerce platform <br />
-            for pets gear
-    </h2>
-    <p className="pt-3">
-      With years of experience, we have developed multiple solutions
-      and large enterprise applications, proving our prowess in the
-      design and development of software solutions. We have
-      unmatched deep industry expertise and experience to harness
-      the latest IT advancements to deliver custom solutions that
-      perfectly fit the needs and behavior of your users.
-    </p>
-    <h5>Solution</h5>
-    <p>To handle yard and vendors, we created the full platform as well as the internal portal. Many suppliers can sell their aftermarket goods to salvage yards thanks to the platform.</p>
-    <h6 className='fs-5 text-dark fw-semibold'>case study <span className='text-primary'><FaArrowAltCircleRight/></span></h6>
-  </div>
-</div>
-<div className="col-lg-6">
-    <div>
-      <img className="image-fluid" src="https://www.w3villa.com/production/assets/landing_page/marketplace-8594c5116a383ff23cfee4c6178000ff2a9223fbb31f8d4a8ccc5ef107d99d6d.webp" alt="" />
-    </div>
-</div>
-</div> */}
